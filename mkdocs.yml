@@ -1,0 +1,15 @@
+site_name: Ashimwe Nixonia Portfolio
+site_description: Networking & IT Student | IoT | APIs | Cybersecurity
+site_author: Ashimwe Nixonia
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
